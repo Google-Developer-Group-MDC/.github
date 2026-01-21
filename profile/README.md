@@ -28,13 +28,10 @@ Whether you're just starting your coding journey or looking to level up your AI 
 
 You may also find us on social media:
 
-[Instagram](https://www.instagram.com/gdgoncampusmdc/)
-
-[Facebook](https://www.facebook.com/profile.php?id=61586034917973)
-
-[X, formerly known as Twitter](https://x.com/GDG_MDC)
-
-[LinkedIn](https://www.linkedin.com/groups/13117853/)
+[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/gdgoncampusmdc/)
+[![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg)](https://www.facebook.com/profile.php?id=61586034917973/)
+[![X, formerly known as Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://x.com/GDG_MDC)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/groups/13117853/)
 
 
 GDG on Campus Miami Dade College - Miami, United States, is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit (https://developers.google.com/communityhttps://developers.google.com/community)
